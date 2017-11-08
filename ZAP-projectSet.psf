@@ -4,8 +4,6 @@
 <project reference="1.0,https://github.com/zaproxy/community-scripts,master,."/>
 <project reference="1.0,https://github.com/zaproxy/zap-core-help,master,."/>
 <project reference="1.0,https://github.com/zaproxy/zap-extensions,master,."/>
-<project reference="1.0,https://github.com/zaproxy/zap-extensions,alpha,."/>
-<project reference="1.0,https://github.com/zaproxy/zap-extensions,beta,."/>
 <project reference="1.0,https://github.com/zaproxy/zaproxy.git,develop,."/>
 </provider>
 </psf>
